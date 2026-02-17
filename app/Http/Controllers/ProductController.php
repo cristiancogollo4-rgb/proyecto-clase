@@ -15,13 +15,9 @@ class ProductController extends Controller
         return view('productos.create');
 
     }
-    public function show($id, $categoria = null)
+    public function show($id)
     {
-        if ($categoria == null) {
-            return "Detalle de producto: " . $id . " - Categoría: Sin categoría";
-        } else {
-            return "Detalle de producto: " . $id . " - Categoría: " . $categoria;
-        }
+        return view('productos.show', ['id' => $id]);
     }
 
 }
