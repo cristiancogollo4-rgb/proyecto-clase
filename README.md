@@ -25,7 +25,7 @@ Este es un proyecto desarrollado con el framework **Laravel**, enfocado en crear
       <img src="https://scontent-bog2-2.xx.fbcdn.net/v/t39.30808-6/407359569_262556623485056_3883437325588969912_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeExU4b92E6VeAJtDnOC3Z7CiRwuzteILdCJHC7O14gt0HHx8SmguNnb-DqVQ2xgDRUxMKTSyOUrqe7W9EaL3583&_nc_ohc=KfEsgWw3PkgQ7kNvwEVMyht&_nc_oc=Adk9gG5FtsnVj0Z3eWnHdIugneZPMMkjGCR5LVOFeZ0qSjLBfltHBOrzwqjgBjVHbf4&_nc_zt=23&_nc_ht=scontent-bog2-2.xx&_nc_gid=JRJGpMSTvyRwQrJSk0qJlQ&oh=00_AfvlbPJayz0P_tkCg-FkNjRP4isiuObIjXgn6vFMxjz1vA&oe=699145D0" width="120" style="border-radius: 50%;" alt="Mi Foto de Perfil">
     </td>
     <td>
-      <h3>¡Hola! Soy Desarrollador Laravel</h3>
+      <h3>¡Hola! Soy Cristian Cogollo</h3>
       <p>Bienvenido a mi repositorio. Aquí aplico mis conocimientos en PHP y arquitectura web para construir soluciones robustas.</p>
       <a href="https://facebook.com">Mi Perfil</a> | 
       <a href="https://github.com/">GitHub</a>
